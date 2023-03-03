@@ -3,6 +3,10 @@
   "displayName": "JSS-to-CSS-syntax",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robinvrd/jss-to-css-syntax.git"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
